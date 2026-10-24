@@ -2487,12 +2487,12 @@ a:focus-visible {
 .developer-page .developer-content {
   position: relative;
   background: #111827;
-  padding: 82px 24px 28px;
+  padding: 24px 24px 28px;
 }
 
 .developer-page .developer-avatar {
   position: relative;
-  top: 0;
+  top: -38px;
   left: auto;
   z-index: 3;
   width: 124px;
@@ -2584,14 +2584,14 @@ a:focus-visible {
   }
 
   .developer-page .developer-content {
-    padding: 78px 18px 24px;
+    padding: 24px 18px 24px;
   }
 
   .developer-page .developer-avatar {
     left: 18px;
     width: 112px;
     height: 112px;
-    top: 0;
+    top: -38px;
   }
 
   .developer-page .developer-name-row {
