@@ -19,10 +19,10 @@ function AboutDeveloper() {
         <div className="developer-banner-wrap">
           <img className="developer-banner" src="/developer-banner.jpg" alt="Banner anime untuk About Developer" />
           <div className="developer-banner-shade" />
-          <span className="developer-badge"><i className="fa-solid fa-code" aria-hidden="true" /> ABOUT DEVELOPER</span>
         </div>
         <div className="developer-content">
           <img className="developer-avatar" src="/developer-profile.jpg" alt="Foto profil developer" />
+          <span className="developer-badge developer-profile-badge"><i className="fa-solid fa-code" aria-hidden="true" /> ABOUT DEVELOPER</span>
           <div className="developer-name-row">
             <div>
               <p className="developer-eyebrow">Dibuat dan dikembangkan oleh</p>
